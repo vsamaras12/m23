@@ -2,30 +2,30 @@
 title: Week 6
 topic: Recursion
 ---
-Sun, Feb 12
+Sun, Jul 30
 : Start: **PA06**{: .label .label-orange }, **CA06**{: .label .label-blue }
 
 
-Mon, Feb 13
-: [](#)
+Mon, Jul 31
+: 
 
-Tue, Feb 14
+Tue, Aug 1
 : 02:00pm **Class**{: .label .label-purple }
 : **11:59pm**  ⏰  Due: **LA05**{: .label .label-green }
 
 
-Wed, Feb 15
+Wed, Aug 2
 : **Lab sections**{: .label .label-purple }
 
 
-Thu, Feb 16
+Thu, Aug 3
 : 02:00pm **Class**{: .label .label-purple } 
 
 
-Fri, Feb 17
-: [](#)
+Fri, Aug 4
+: 
 
-Sat, Feb 18
+Sat, Aug 5
 : **11:59pm**  ⏰  Due: **PA06**{: .label .label-orange }, **CA06**{: .label .label-blue }
 
 

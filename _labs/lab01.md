@@ -4,8 +4,8 @@ assigned: 2023-02-09 14:00
 due: 2023-02-21 23:59
 num: lab01
 ready: true
-starter_url: https://github.com/ucsb-cs16-w23/STARTER-lab01
-starter_remote: git@github.com:ucsb-cs16-w23/STARTER-lab01.git
+starter_url: https://github.com/ucsb-cs16-m23/STARTER-lab01
+starter_remote: git@github.com:ucsb-cs16-m23/STARTER-lab01.git
 ---
 
 # Collaboration policy 
@@ -175,7 +175,7 @@ remote: Counting objects: 100% (10/10), done.
 remote: Compressing objects: 100% (7/7), done.
 remote: Total 10 (delta 2), reused 7 (delta 2), pack-reused 0
 Unpacking objects: 100% (10/10), 2.45 KiB | 47.00 KiB/s, done.
-From github.com:ucsb-cs16-w23/STARTER-lab01
+From github.com:ucsb-cs16-m23/STARTER-lab01
  * branch            main       -> FETCH_HEAD
  * [new branch]      main       -> starter/main
 $ls
@@ -200,7 +200,7 @@ Compressing objects: 100% (9/9), done.
 Writing objects: 100% (10/10), 3.90 KiB | 1.95 MiB/s, done.
 Total 10 (delta 2), reused 0 (delta 0), pack-reused 0
 remote: Resolving deltas: 100% (2/2), done.
-To github.com:ucsb-cs16-w23/lab01-YOUR-GITHUB-ID.git
+To github.com:ucsb-cs16-m23/lab01-YOUR-GITHUB-ID.git
  * [new branch]      main -> main
 [dimirza@csilvm-11 lab01_test]$ git status
 On branch main

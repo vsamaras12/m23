@@ -1,31 +1,31 @@
 ---
 title: Week 8
-topic: "Classes, Part 1: Member Functions, Mutators, Accessors"
+topic: Classes, Part 1, Member Functions, Mutators, Accessors
 ---
-Sun, Feb 26
+Sun, Aug 13
 : Start: **PA08**{: .label .label-orange }, **CA08**{: .label .label-blue }
 
 
-Mon, Feb 27
-: [](#)
+Mon, Aug 14
+: 
 
-Tue, Feb 28
+Tue, Aug 15
 : 02:00pm **Class**{: .label .label-purple }
 : **11:59pm**  ⏰  Due: **LA07**{: .label .label-green }
 
 
-Wed, Mar 1
+Wed, Aug 16
 : **Lab sections**{: .label .label-purple }
 
 
-Thu, Mar 2
+Thu, Aug 17
 : 02:00pm **Class**{: .label .label-purple } 
 
 
-Fri, Mar 3
-: [](#)
+Fri, Aug 18
+: 
 
-Sat, Mar 4
+Sat, Aug 19
 : **11:59pm**  ⏰  Due: **PA08**{: .label .label-orange }, **CA08**{: .label .label-blue }
 
 

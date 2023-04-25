@@ -89,7 +89,7 @@ Letter Grades:
 
 ## Required Resources
 
-The zyBook for this course is required.  Information can be found at the [textbook](/w23/textbook) link in the menu.
+The zyBook for this course is required.  Information can be found at the [textbook](/m23/textbook) link in the menu.
 
 # What this course is about <a name="about"></a>
 

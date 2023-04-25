@@ -16,7 +16,7 @@ To prepare you for the final exam, this lab will ask you to implement functions 
 
 First, refer to this following problem solving guide and follow the guidelines to help you solve complex problems:
 
-* <https://ucsb-cs16.github.io/w23/assets/pdfs/alexmei-problem-solving.pdf>. 
+* <https://ucsb-cs16.github.io/m23/assets/pdfs/alexmei-problem-solving.pdf>. 
 
 If you need more assistance, the course staff is happy to provide you additional support on Piazza, in section, and during office hours.
 

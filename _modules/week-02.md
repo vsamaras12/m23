@@ -2,30 +2,32 @@
 title: Week 2
 topic: Variables / Assignments / Loops (part 1)
 ---
-Sun, Jan 15
+Sun, Jul 2
 : Start: **PA02**{: .label .label-orange }, **CA02**{: .label .label-blue }
 
 
-Mon, Jan 16
-: **Holiday (no classes)**{: .label .label-red }**Martin Luther King Jr. Day**
+Mon, Jul 3
+: 
 
+Tue, Jul 4
+: **Holiday (no classes)**{: .label .label-red }**Independence Day**
 
-Tue, Jan 17
 : 02:00pm **Class**{: .label .label-purple }
-: **11:59pm**  ⏰  Due: **PA01**{: .label .label-orange }, **CA01**{: .label .label-blue }
 : **11:59pm**  ⏰  Due: **LA01**{: .label .label-green }
 
 
-Wed, Jan 18
+Wed, Jul 5
 : **Lab sections**{: .label .label-purple }
 
 
-Thu, Jan 19
+Thu, Jul 6
 : 02:00pm **Class**{: .label .label-purple } 
 
 
-Fri, Jan 20
-: [](#)
+Fri, Jul 7
+: 
 
-Sat, Jan 21
+Sat, Jul 8
 : **11:59pm**  ⏰  Due: **PA02**{: .label .label-orange }, **CA02**{: .label .label-blue }
+
+

@@ -114,26 +114,27 @@ admin_prompt = ': <p class="text-grey-dk-000 mb-0">'
 
 # https://registrar.sa.ucsb.edu/calendars/calendars-deadlines/academic-calendars
 holidays = {
-    (1, 16): "Martin Luther King Jr. Day",  # January 17
-    (2, 20): "Presidents' Day",  # February 21
+    #(1, 16): "Martin Luther King Jr. Day",  # January 17
+    #(2, 20): "Presidents' Day",  # February 21
     # (5, 30) : "Memorial Day", # May 30
+    (7, 4): "Independence Day",  # July 4
 }
 
 # https://registrar.sa.ucsb.edu/calendars/calendars-deadlines/registration-pass-dates
 admin_dates = {
-    (2, 6): "Deadline to Drop Courses",
-    (3, 17): "Instruction Ends"
+    #(2, 6): "Deadline to Drop Courses",
+    #(3, 17): "Instruction Ends"
     #    (4, 22) : "Deadline to Drop Courses",
     #    (6, 3) : "Instruction Ends"
 }
 
-start_month = 1  # jan
-start_day = 8  # jan 8 is first day of calendar
+start_month = 6  # jan
+start_day = 25  # jan 8 is first day of calendar
 start_week = 1
 exclude_weekends = False  # True
 include_days_of_week = True  # whether to include "Mon", "Tue" with the day
-end_month = 3
-end_day = 24  # the last day of the Final Exams (quarter ends)
+end_month = 9
+end_day = 2  # the last day of the Final Exams (quarter ends)
 
 num_days = 7
 num_weeks = 11  # stop before this week

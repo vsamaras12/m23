@@ -39,8 +39,8 @@ But if not, please do it now.
 In order to continue with the lab, you need to be a member of the GitHub organization, and you need to have a lab00 repo.
 
 * Bring up the web page: <https://github.com> and login to your GitHub account.
-* Then, in the same browser window, navigate to <https://github.com/ucsb-cs16-w23>.   Then go to the tab that says `People`, and under that tab, search for your own name (or GitHub id).  You should be able to see the members of the organization, and your name should appear in that list.
-  * If you are not able to see the `People` tab, or your name does not appear in the list, look at the top of the page for <https://github.com/ucsb-cs16-w23> and see if you find an invitation to the organization that you haven't accepted yet.  If that appears, please click to accept the invitation to the organization.  After doing this, one of the staff will need to create your lab02 repository, so ask for assistance.
+* Then, in the same browser window, navigate to <https://github.com/ucsb-cs16-m23>.   Then go to the tab that says `People`, and under that tab, search for your own name (or GitHub id).  You should be able to see the members of the organization, and your name should appear in that list.
+  * If you are not able to see the `People` tab, or your name does not appear in the list, look at the top of the page for <https://github.com/ucsb-cs16-m23> and see if you find an invitation to the organization that you haven't accepted yet.  If that appears, please click to accept the invitation to the organization.  After doing this, one of the staff will need to create your lab02 repository, so ask for assistance.
 * Assuming you got this far, look under the tab for repositories.  You should see a listing for a repository called `lab00-YOUR-GITHUB-USERNAME` where `YOUR-GITHUB-USERNAME` is your GitHub username (for example `lab00-cgaucho`).
   * If you don't see a `lab00-YOUR-GITHUB-USERNAME` repo, then ask a staff member for assistance.
 
@@ -161,12 +161,12 @@ $
 
 ## Step 8: Clone your lab00 repo
 
-Next, open a web browser to <https://github.com/ucsb-cs16-w23> and if you are not already logged in, login to GitHub.
+Next, open a web browser to <https://github.com/ucsb-cs16-m23> and if you are not already logged in, login to GitHub.
 
 Under the repositories tab, you should see a repo called `lab00-YOUR-GITHUB-USERNAME`, for example `lab00-cgaucho`.
 
 Navigate to the page for this repo.  The URL will be something like this: 
-* <https://github.com/ucsb-cs16-w23/lab00-cgaucho>
+* <https://github.com/ucsb-cs16-m23/lab00-cgaucho>
 
 On that page, you'll see something like this (in this image, the user is `Avishek-De`, one of the TAs for CS16 in F21.  In your case,
 the text `Avishek-De` should be replaced with your GitHub id.)
@@ -177,15 +177,15 @@ As you can see, there are two buttons, labelled HTTPS and SSH.  Try clicking on 
 
 | When you click this button | Then the URL should look like this | Which one do we want? |
 |----------------------------|------------------------------------|-----------------------|
-| `HTTPS` | `https://github.com/ucsb-cs16-w23/lab00-AvishekDe.git` | <span>NOT this</span>{: .label .label-red } | 
-| `SSH`   |  `git@github.com:ucsb-cs16-w23/lab00-AvishekDe.git` | <span>THIS</span>{: .label .label-green }  |
+| `HTTPS` | `https://github.com/ucsb-cs16-m23/lab00-AvishekDe.git` | <span>NOT this</span>{: .label .label-red } | 
+| `SSH`   |  `git@github.com:ucsb-cs16-m23/lab00-AvishekDe.git` | <span>THIS</span>{: .label .label-green }  |
 
 Be sure that you click the SSH button and that your URL starts with `git@github.com` and ends with `lab00-YOUR-GITHUB-USERNAME` (e.g. `lab00-cgaucho`) before proceeding.
 
 Next, copy the URL that starts with `git@github.com` from the box.  We are going to type `git clone` at the command line (still inside your `cs16` directory) and then paste this URL, so that command looks like this:
 
 ```
-$ git clone git@github.com:ucsb-cs16-w23/lab00-YOUR-GITHUB-USERNAME.git
+$ git clone git@github.com:ucsb-cs16-m23/lab00-YOUR-GITHUB-USERNAME.git
 ```
 
 The first time you connect, you might see output like this (it may not look precisely the same, but similar):
@@ -209,7 +209,7 @@ Please answer `yes`, and after that you won't see this message again. (This adds
 After you do that, you should see output such as this:
 
 ```
-[pconrad@csilvm-03 cs16]$ git clone git@github.com:ucsb-cs16-w23/lab00-YOUR-GITHUB-ID
+[pconrad@csilvm-03 cs16]$ git clone git@github.com:ucsb-cs16-m23/lab00-YOUR-GITHUB-ID
 Cloning into 'lab00-YOUR-GITHUB-ID'...
 warning: You appear to have cloned an empty repository.
 ```
@@ -490,7 +490,7 @@ This involves several steps, explained in the table below.  Try each step as you
 {:.table .table-sm .table-striped .table-bordered}
 
 Once you've gone through all of these steps, navigate to your repo on the web at this URL (but substituting in your userid in place of `YOUR-GITHUB-USERNAME`:
-* <https://github.com/ucsb-cs16-w23/lab00-YOUR-GITHUB-USERNAME>
+* <https://github.com/ucsb-cs16-m23/lab00-YOUR-GITHUB-USERNAME>
 
 You should see a listing for the file `hello.cpp`, and if you click on it, you should see the entire contents of the file, something like this:
 

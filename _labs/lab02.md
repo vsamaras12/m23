@@ -5,7 +5,7 @@ desc: "Odds and primes: Fun with arrays and makefiles"
 assigned: 2023-02-16 13:00
 due: 2023-03-01 23:59
 lecture_reference: "Lecture on 02.16"
-lecture_code_link: https://github.com/ucsb-cs16-w23/LECTURES/tree/main/02.16 
+lecture_code_link: https://github.com/ucsb-cs16-m23/LECTURES/tree/main/02.16 
 ---
 
 # {{page.num}} - {{page.desc}}
