@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "UCSB CS16 m23"
+title: "UCSB CS16 M23"
 layout: default
 nav_order: 0
-description: "CMPSC 16 for Winter 2023 (Conrad)"
+description: "CMPSC 16 for Summer 2023 (Enbo Zhou)"
 ---
 
 <style>
@@ -11,7 +11,7 @@ description: "CMPSC 16 for Winter 2023 (Conrad)"
 </style>
 
 
-# CMPSC 16, Winter 2023
+# CMPSC 16, Summer 2023
 
 # Office Hours
 
