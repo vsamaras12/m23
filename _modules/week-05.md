@@ -10,7 +10,7 @@ Mon, Jul 24
 : 
 
 Tue, Jul 25
-: 02:00pm **Class**{: .label .label-purple }
+: 09:30am **Class**{: .label .label-purple }
 : **11:59pm**  ⏰  Due: **LA04**{: .label .label-green }
 
 
@@ -19,7 +19,7 @@ Wed, Jul 26
 
 
 Thu, Jul 27
-: 02:00pm **Class**{: .label .label-purple } 
+: 09:30am **Class**{: .label .label-purple } 
 
 
 Fri, Jul 28

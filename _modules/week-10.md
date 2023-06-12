@@ -10,7 +10,7 @@ Mon, Aug 28
 : 
 
 Tue, Aug 29
-: 02:00pm **Class**{: .label .label-purple }
+: 09:30am **Class**{: .label .label-purple }
 : **11:59pm**  ⏰  Due: **LA09**{: .label .label-green }
 
 
@@ -19,7 +19,7 @@ Wed, Aug 30
 
 
 Thu, Aug 31
-: 02:00pm **Class**{: .label .label-purple } 
+: 09:30am **Class**{: .label .label-purple } 
 
 
 Fri, Sep 1

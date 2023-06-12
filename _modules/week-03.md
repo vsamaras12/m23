@@ -10,7 +10,7 @@ Mon, Jul 10
 : 
 
 Tue, Jul 11
-: 02:00pm **Class**{: .label .label-purple }
+: 09:30am **Class**{: .label .label-purple }
 : **11:59pm**  ⏰  Due: **LA02**{: .label .label-green }
 
 
@@ -19,7 +19,7 @@ Wed, Jul 12
 
 
 Thu, Jul 13
-: 02:00pm **Class**{: .label .label-purple } 
+: 09:30am **Class**{: .label .label-purple } 
 
 
 Fri, Jul 14
