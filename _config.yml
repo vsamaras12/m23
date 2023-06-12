@@ -3,7 +3,7 @@ theme: just-the-docs
 
 incremental: true
 
-title: "CS16 m23"
+title: "CS16 M23"
 baseurl: "/m23"
 
 github_org: ucsb-cs16-m23

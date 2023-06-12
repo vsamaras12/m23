@@ -23,7 +23,7 @@ Thu, Aug 31
 
 
 Fri, Sep 1
-: 
+: <p class="text-grey-dk-000 mb-0"><em>Instruction Ends</em></p>
 
 Sat, Sep 2
 : **11:59pm**  ⏰  Due: **PA10**{: .label .label-orange }, **CA10**{: .label .label-blue } 
