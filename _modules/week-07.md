@@ -1,6 +1,6 @@
 ---
 title: Week 7
-topic: Introduction to struct / linked lists
+topic: Recursion / linked lists
 ---
 Sun, Aug 6
 : Start: **PA07**{: .label .label-orange }, **CA07**{: .label .label-blue }

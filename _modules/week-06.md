@@ -1,6 +1,6 @@
 ---
 title: Week 6
-topic: Recursion
+topic: Introduction to struct
 ---
 Sun, Jul 30
 : Start: **PA06**{: .label .label-orange }, **CA06**{: .label .label-blue }
