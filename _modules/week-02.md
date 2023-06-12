@@ -15,7 +15,7 @@ Tue, Jul 4
 Wed, Jul 5
 : 09:30am **Class**{: .label .label-purple }
 : **Lab sections**{: .label .label-purple }
-: **11:59pm**  ⏰  Due: **LA01**{: .label .label-green }
+: **11:59pm**  ⏰  Due: **PA01**{: .label .label-orange }, **CA01**{: .label .label-blue } **LA01**{: .label .label-green }
 
 
 Thu, Jul 6

@@ -21,5 +21,5 @@ Fri, Jun 30
 : [](#)
 
 Sat, Jul 1
-: **11:59pm**  ⏰  Due: **PA01**{: .label .label-orange }, **CA01**{: .label .label-blue }
+: [](#)
 

@@ -26,6 +26,6 @@ Fri, Sep 1
 : 
 
 Sat, Sep 2
-: **11:59pm**  ⏰  Due: **PA10**{: .label .label-orange }, **CA10**{: .label .label-blue } **LA09**{: .label .label-green }
+: **11:59pm**  ⏰  Due: **PA10**{: .label .label-orange }, **CA10**{: .label .label-blue } 
 
 
