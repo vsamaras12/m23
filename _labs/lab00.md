@@ -10,7 +10,7 @@ due: 2023-02-14 23:59
 
 ## Introduction
 
-This week's lab is design to help you learn about you CSIL/ECI/CoE account, GitHub and Gradescope, three important tools you'll use in this course and that may be used in future CMPSC courses you may take at UCSB.
+This week's lab is design to help you learn about your CSIL/ECI/CoE account, GitHub and Gradescope, three important tools you'll use in this course and that may be used in future CMPSC courses you may take at UCSB.
 
 # Part 1: Get setup with the tools for this course
 
