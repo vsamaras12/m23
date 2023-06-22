@@ -10,11 +10,12 @@ Mon, Jul 31
 : 
 
 Tue, Aug 1
-: 09:30am **Class**{: .label .label-purple }
+: 09:30am **Midterm Exam**{: .label .label-red }
 : **11:59pm**  ⏰  Due: **LA05**{: .label .label-green }
 
 
 Wed, Aug 2
+: 09:30am **Class**{: .label .label-purple }
 : **Lab sections**{: .label .label-purple }
 
 
