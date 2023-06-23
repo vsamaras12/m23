@@ -13,7 +13,6 @@ Tue, Jul 4
 : **Holiday (no classes)**{: .label .label-red }**Independence Day**
 
 Wed, Jul 5
-: 09:30am **Class**{: .label .label-purple }
 : **Lab sections**{: .label .label-purple }
 : **11:59pm**  ⏰  Due: **PA01**{: .label .label-orange }, **CA01**{: .label .label-blue } **LA01**{: .label .label-green }
 
