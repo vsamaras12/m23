@@ -15,7 +15,6 @@ Tue, Aug 1
 
 
 Wed, Aug 2
-: 09:30am **Class**{: .label .label-purple }
 : **Lab sections**{: .label .label-purple }
 
 
