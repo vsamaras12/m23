@@ -23,9 +23,9 @@ Thu, Aug 24
 
 
 Fri, Aug 25
-: 
+: **11:59pm**  ⏰  Due: **PA09**{: .label .label-orange }, **CA09**{: .label .label-blue }
 
 Sat, Aug 26
-: **11:59pm**  ⏰  Due: **PA09**{: .label .label-orange }, **CA09**{: .label .label-blue }
+: 
 
 

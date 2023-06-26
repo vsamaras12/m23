@@ -22,9 +22,9 @@ Thu, Jul 6
 
 
 Fri, Jul 7
-: 
+: **11:59pm**  ⏰  Due: **PA02**{: .label .label-orange }, **CA02**{: .label .label-blue }
 
 Sat, Jul 8
-: **11:59pm**  ⏰  Due: **PA02**{: .label .label-orange }, **CA02**{: .label .label-blue }
+:
 
 

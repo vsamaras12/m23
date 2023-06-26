@@ -23,9 +23,9 @@ Thu, Jul 27
 
 
 Fri, Jul 28
-: 
+: **11:59pm**  ⏰  Due: **PA05**{: .label .label-orange }, **CA05**{: .label .label-blue }
 
 Sat, Jul 29
-: **11:59pm**  ⏰  Due: **PA05**{: .label .label-orange }, **CA05**{: .label .label-blue }
+: 
 
 
