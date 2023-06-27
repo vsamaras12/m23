@@ -19,7 +19,7 @@ Wed, Aug 30
 
 
 Thu, Aug 31
-: 09:00pm **Final Exam**{: .label .label-red } normal lecture room
+: 09:00am **Final Exam**{: .label .label-red } normal lecture room
 
 
 Fri, Sep 1
