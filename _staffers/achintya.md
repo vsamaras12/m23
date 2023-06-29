@@ -1,7 +1,7 @@
 ---
 name: Achintya Desai
 role: Teaching Assistant
-pronouns: 
+pronouns: he/him/his
 photo: 
 ---
 
