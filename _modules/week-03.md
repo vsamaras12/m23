@@ -7,7 +7,7 @@ Sun, Jul 9
 
 
 Mon, Jul 10
-: 
+: **11:59pm**  ⏰  Due: **PA02**{: .label .label-orange }, **CA02**{: .label .label-blue }
 
 Tue, Jul 11
 : 09:30am **Class**{: .label .label-purple }
