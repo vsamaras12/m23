@@ -5,7 +5,6 @@ topic: Loops (part 2) / Arrays / Vectors
 Sun, Jul 9
 : Start: **PA03**{: .label .label-orange }, **CA03**{: .label .label-blue }
 
-
 Mon, Jul 10
 :
 
