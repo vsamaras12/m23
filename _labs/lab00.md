@@ -329,7 +329,7 @@ type C++ code, or a shopping list, or anything you like.)
 While we stress that ultimately the choice of text editor is a personal choice, that we leave up to you, we do want every CS16 student to at the very least develop basic vim skills for a minimal set of commands, which we call the "basic eight".
 
 Those are documented here: 
-* <https://ucsb-cs16.github.io/topics/vim_basic_eight/>
+* <https://ucsb-cs16.github.io/topics/vim_basic_eight.html>
 
 There may be an assignment later this quarter where you need to do a live demo for one of the TAs or LAs demonstrating that you know these basic eight skills in vim.
 
