@@ -24,9 +24,9 @@ Thu, Jul 13
 
 
 Fri, Jul 14
-: **11:59pm**  ⏰  Due: **PA03**{: .label .label-orange }, **CA03**{: .label .label-blue }
+: 
 
 Sat, Jul 15
-: 
+: **11:59pm**  ⏰  Due: **PA03**{: .label .label-orange }, **CA03**{: .label .label-blue }
 
 
