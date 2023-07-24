@@ -2,7 +2,7 @@
 name: Achintya Desai
 role: Teaching Assistant
 pronouns: he/him/his
-photo: 
+photo: 404.png
 ---
 
 Hi, everyone! I am a second-year Ph.D. student in the CS department. My research area is automated verification techniques with Prof. Tevfik Bultan. In my research area, we deal with automating the process of program verification which prevents the code from being exploited by an adversary.   
